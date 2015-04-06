@@ -1,0 +1,22 @@
+{
+  "name": "gulp-boilerplate-images",
+  "version": "0.1.0",
+  "description": "Bootstrap for gulp tasks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "tasks"
+  ],
+  "author": "Marcos Hernandez <marcoslhc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-print": "^1.1.0",
+    "gulp-util": "^3.0.4",
+    "symbols": "git://github.com/marcoslhc/symbols.git"
+  }
+}
